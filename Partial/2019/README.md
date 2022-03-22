@@ -1,0 +1,1 @@
+* [Exercise 1](https://onecompiler.com/c/3xwvewncy) on Onecompiler

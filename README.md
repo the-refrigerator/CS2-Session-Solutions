@@ -1,4 +1,4 @@
-* By: Ahmad Abu Zainabma (li 7atet @.-. 3al Whatsapp)
+* By: Ahmad Abu Zainab (li 7atet @.-. 3al Whatsapp)
 
 This is a digitalised version of solutions of CS 2 sessions.
  
@@ -16,3 +16,4 @@ There are several good online C compilers you can choose from:
 
 You'd need to download the repository on your device.
 
+![How to download the repo](https://cdn.discordapp.com/attachments/668461840887709706/955854819166388244/cs_stuff_uwu.png)

@@ -6,6 +6,7 @@ This is a digitalised version of solutions of CS 2 sessions.
 # Running the programs
 
 ## Online
+Every solution will have a link to One compiler with the code in each session folder.
 
 There are several good online C compilers you can choose from:
 * [GDB compiler](https://www.onlinegdb.com/online_c_compiler)
